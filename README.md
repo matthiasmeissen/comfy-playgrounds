@@ -3,6 +3,12 @@
 Learn how to use Comfy UI and generate images.
 
 
+## 04 - Iridescent Flower
+`Juggernaut Reborn - M1 Max 32Gb - 1024x1024 - 114s`  
+
+![Iridescent Flower](04-iridescent-flower-250612/04-iridescent-flower-250612.png)
+
+
 ## 03 - Glass Flowers
 `Juggernaut Reborn - M1 Max 32Gb - 1024x1024 - 115s`  
 
