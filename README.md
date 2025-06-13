@@ -3,6 +3,12 @@
 Learn how to use Comfy UI and generate images.
 
 
+## 05 - Oilpainting Lora
+`Juggernaut Reborn - M1 Max 32Gb - 1024x1024 - 114s`  
+
+![Oilpainting Lora](05-oilpainting-lora-250613/05-oilpainting-lora-250613.png)
+
+
 ## 04 - Iridescent Flower
 `Juggernaut Reborn - M1 Max 32Gb - 1024x1024 - 114s`  
 
