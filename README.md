@@ -2,6 +2,11 @@
 
 Learn how to use Comfy UI and generate images.
 
+## 06 - Hajime Sorayama
+`Flux 1 Schnell - Cloud T4 16Gb - 1024x1024 - 24s`
+
+![Hajime Sorayama](06-hajime-sorayama-250616/06-hajime-sorayama-250616.png)
+
 
 ## 05 - Oilpainting Lora
 `Juggernaut Reborn - M1 Max 32Gb - 1024x1024 - 114s`  
