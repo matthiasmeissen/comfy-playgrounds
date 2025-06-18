@@ -2,6 +2,12 @@
 
 Learn how to use Comfy UI and generate images.
 
+## 07 - Metallic Flower
+`Flux 1 Dev - Cloud T4 16Gb - 1024x1024 - 110s`
+
+![Metallic Flower](07-metallic-flower-250618/07-metallic-flower-250618.png)
+
+
 ## 06 - Hajime Sorayama
 `Flux 1 Schnell - Cloud T4 16Gb - 1024x1024 - 24s`
 
