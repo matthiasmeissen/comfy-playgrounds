@@ -2,6 +2,12 @@
 
 Learn how to use Comfy UI and generate images.
 
+## 08 - SDXL Controlnet
+`Juggernaut XL V9 - Cloud T4 16Gb - 1024x1024 - 40s` 
+
+![SDXL Controlnet](08-sdxl-controlnet-250621/08_sdxl_controlnet_250621.png)
+
+
 ## 07 - Metallic Flower
 `Flux 1 Dev - Cloud T4 16Gb - 1024x1024 - 110s`
 
