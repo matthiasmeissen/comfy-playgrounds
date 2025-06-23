@@ -2,6 +2,12 @@
 
 Learn how to use Comfy UI and generate images.
 
+## 09 - Flux Controlnet
+`Flux 1 schnell q8 gguf - Cloud T4 16Gb - 1024x1024 - 240s` 
+
+![Flux Controlnet](09-flux-controlnet-250623/09-flux-controlnet-250623.png)
+
+
 ## 08 - SDXL Controlnet
 `Juggernaut XL V9 - Cloud T4 16Gb - 1024x1024 - 40s` 
 
