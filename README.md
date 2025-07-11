@@ -2,6 +2,12 @@
 
 Learn how to use Comfy UI and generate images.
 
+## 10 - Flux Kontext
+`Flux 1 Kontext Dev - Cloud L4 24Gb - 1392-752 - 82s` 
+
+![Flux Kontext](10-flux-kontext-250711/10-flux-kontext-250711.png)
+
+
 ## 09 - Flux Controlnet
 `Flux 1 schnell q8 gguf - Cloud T4 16Gb - 1024x1024 - 240s` 
 
